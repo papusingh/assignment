@@ -1,0 +1,8 @@
+{
+    "HOST":"http://localhost",
+    "PORT":4000,
+    "PROVIDER_URL":"https://jsonplaceholder.typicode.com",
+    "USERS": "/users/",
+    "ALBUMS": "/albums",
+    "PHOTOS": "/photos"
+}
